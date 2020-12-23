@@ -1,2 +1,2 @@
 # data_science
-Test description
+This repository covers code related to data science. Most of the programs are written in Python.
